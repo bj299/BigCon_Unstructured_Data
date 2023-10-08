@@ -52,3 +52,17 @@
 ## Modeling
 * Anlaysis를 통해 Labeling 한 데이터를 LSTM(Long-Short Term Memory) Model의 학습데이터로 활용하였습니다. 학습 결과 Validation Data에 대하여 Accuracy 83%의 성능을 나타냈고, 학습된 LSTM Model에 [씨름 토너먼트 경기 영상](https://www.kaggle.com/t/9eb8d80301bc4ae7a9ae1568c452b1d0)을 테스트 데이터로 활용하여 씨름 경기의 승패를 예측한 결과 Accuracy 50% 성능을 나타냈습니다. 
 * 금강장사결정전 우승자 인터뷰 영상을 Naver CLOVA STT(Speech To Text) API를 활용하여 Text data로 전환 후 Naver Summarization API를 통해 요약한 데이터를 얻었습니다. 그리고 Crawling한 씨름 데이터를 활용하여 기사 형태의 문장을 생성하도록 한 뒤, 해당 코드들과 GUI(Graphic User Interface) 구현 코드 `final_article_code_using_gui.md` 를 통합하여 자동 씨름 기사 생성모델을 완성했습니다.
+
+## Project Result
+
+<p align="center">
+  <img src="./Images/Alphapose_Result.png" width="600" />
+</p>
+
+<p align="center">
+  <img src="./Images/lstm.png" width="600" />
+</p>
+
+<p align="center">
+  <img src="./Images/Article_Gui.png" width="600" />
+</p>
