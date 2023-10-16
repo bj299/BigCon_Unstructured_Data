@@ -28,6 +28,7 @@
 │       └── Result_Json_Data_From_AlphaPose_Code
 ├── Model
 │   ├── Creating_Article_Model
+│   |   ├── article.py
 │   │   └──final_article_code_using_gui.md
 │   └── Win_Prediction_Model
 │       ├── LSTM_For_Win_Prediction
