@@ -1,4 +1,4 @@
-# 2023 빅콘테스트 비정형데이터 분석 분야 <와이빅타DA팀>
+# 2023 빅콘테스트 비정형데이터 분석 분야 3위 <와이빅타DA팀>
 
 ## 프로젝트 소개
 씨름 토너먼트 경기 영상[(위더스제약 2023 민속씨름 보은장사씨름대회 금강장사결정전)](https://www.kaggle.com/t/9eb8d80301bc4ae7a9ae1568c452b1d0)과 씨름 아카이브 센터의 [경기결과 데이터](https://kpso.co.kr/ksa/Schedule/GameScheduleAndResult?page_no=1&tab=all&season_id=2023&comp_id=25&section_cd=0&gender_cd=28&weight_cd=13&t_id=0) 및 [데이터필름센터](https://kpso.co.kr/ksa/Museum/DataFilm)를 활용하여 자동 씨름기사 생성모델과 경기승패 예측모델를 구현하는 프로젝트 입니다.
